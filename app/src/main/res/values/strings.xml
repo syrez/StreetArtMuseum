@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StreetArtMuseum</string>
+    <string name="appId">B5HDGVwTpBCHxItY4tHqw2xIqSRFzhlMTlg1GqhV</string>
+    <string name="clientKey">0MBd02yj0eVjJL7d9uOyNNQDnuut50X470ouy8f3</string>
+    <string name="signUpMsg">You are now Logged</string>
+    <string name="signUpErrorMsg">Connection Failed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
